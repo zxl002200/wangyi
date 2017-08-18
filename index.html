@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no, email=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <link rel="stylesheet" href="../../js/swiper/swiper-3.4.2.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <style>
+    </style>
+</head>
+<body ng-controller="my">
+<header>
+    <div><img src="img1/header-1_03.jpg" alt=""></div>
+    <div><input type="text" placeholder="搜索音乐、歌词、电台"></div>
+    <div><img src="img1/header-2_03.gif" alt=""></div>
+</header>
+<section>
+    <div ui-view></div>
+</section>
+<footer>
+    <ul>
+        <li><a ui-sref="one.yi"><img src="img1/footer_03.gif" alt="">
+            <p>发现音乐</p></a></li>
+        <li><a ui-sref="two"><img src="img1/footer_05.gif" alt="">
+            <p>我的音乐</p></a></li>
+        <li><a ui-sref="three"><img src="img1/footer_07.gif" alt="">
+            <p>朋友</p></a></li>
+        <li><a ui-sref="four"><img src="img1/footer_09.jpg" alt="">
+            <p>账号</p></a></li>
+    </ul>
+</footer>
+</body>
+</html>
+<script src="js/jquery.js"></script>
+<script src="js/iscroll5.js"></script>
+<script src="js/iscroll-probe.js"></script>
+<script src="js/swiper-3.4.2.min.js"></script>
+<script src="js/angular.js"></script>
+<script src="js/angular-ui-router.js"></script>
+<script src="js/app.js"></script>

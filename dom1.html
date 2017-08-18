@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no, email=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <link rel="stylesheet" href="dom1.css">
+    <style>
+
+    </style>
+</head>
+<body ng-controller="my">
+<div id="one-header">
+    <h2 id="load1" style="display: none;font-size: 2rem">刷新中....</h2>
+    <ul>
+        <li><a ui-sref="one.yi">个性推荐</a></li>
+        <li><a ui-sref="one.er">歌单</a></li>
+        <li><a ui-sref="one.san">主播电台</a></li>
+        <li><a ui-sref="one.si">排行榜</a></li>
+    </ul>
+</div>
+<ui-view></ui-view>
+</body>
+</html>
+<script>
+</script>

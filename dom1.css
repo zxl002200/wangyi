@@ -1,0 +1,18 @@
+#one-header{
+    width:100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#one-header>ul{
+    display: flex;
+    justify-content: space-around;
+}
+#one-header>ul>li{
+    width: 25%;
+    font-size: 2rem;
+    text-align: center;
+}
+#one-header>ul>li>a{
+    text-decoration: none;
+    color:red;
+}

@@ -1,0 +1,84 @@
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .div1{
+        width:100%;
+    }
+    .div1>div{
+        width: 100%;
+        display: flex;
+        font-size: 1.5rem;
+        border-top: 1px solid #bcbcbc;
+        padding: 1rem;
+    }
+    .div1>div>div:nth-child(1){
+        width: 30%;
+    }
+    .div1>div>div:nth-child(1)>img{
+        width: 100%;
+        height: 100%;
+    }
+    .div1>div>div:nth-child(2){
+        margin-left: 2rem;
+    }
+    .div1>div>div:nth-child(2)>p{
+        margin-top: 1.6rem;
+    }
+    .div2 {
+        width: 100%;
+        height: 15rem;
+    }
+
+    .div2 > ul {
+        width: 100%;
+        height: 10rem;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .div2 > ul > li {
+        width: 33.3%;
+        height: 10rem;
+        font-size: 1.5rem;
+    }
+
+    .div2 > ul > li > img {
+        width: 95%;
+        height: 9rem;
+    }
+</style>
+<div class="div1">
+    <p style="font-size: 2rem;margin: 1rem auto;">云音乐官方榜</p>
+    <div ng-repeat="item in obj4[0].one track by $index ">
+        <div><img ng-src="{{item.img}}" alt=""></div>
+        <div>
+            <p style="font-size: 1.6rem;">{{item.con}}</p>
+            <p>{{item.con2}}</p>
+            <p>{{item.con3}}</p>
+        </div>
+    </div>
+</div>
+<p style="font-size: 2rem;margin-bottom: 1rem;">全球榜</p>
+<div class="div2" ng-repeat="item in obj4[1].two track by $index">
+    <ul>
+        <li><img ng-src="{{item.img}}" alt="">
+            <p>{{item.con}}</p></li>
+        <li><img ng-src="{{item.img1}}" alt="">
+            <p>{{item.con1}}</p></li>
+        <li><img ng-src="{{item.img2}}" alt="">
+            <p>{{item.con2}}</p></li>
+    </ul>
+</div>
+<div class="div2">
+    <p style="font-size: 2rem;margin-bottom: 1rem;">用户榜</p>
+    <ul ng-repeat="item in obj4[2].four track by $index">
+        <li><img ng-src=" " alt="">
+            <p>{{item.con}}</p></li>
+        <li><img ng-src="{{item.img1}}" alt="">
+            <p>{{item.con1}}</p></li>
+        <li></li>
+    </ul>
+</div>

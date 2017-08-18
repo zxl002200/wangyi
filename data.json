@@ -1,0 +1,501 @@
+{
+  "dom1_a": [
+    {
+      "one": [
+        "img1/banner_02.jpg",
+        "img1/banner_02.jpg",
+        "img1/banner_02.jpg"
+      ]
+    },
+    {
+      "two": [
+        {
+          "img": "img1/tubiao_03.jpg",
+          "con": "私人FM"
+        },
+        {
+          "img": "img1/tubiao_05.jpg",
+          "con": "每日歌曲推荐"
+        },
+        {
+          "img": "img1/tubiao_07.gif",
+          "con": "云音乐热歌榜"
+        }
+      ]
+    },
+    {
+      "three": [
+        {
+          "img": "img1/con-1_02.gif",
+          "con": "地球日；你有什么话想对地球."
+        },
+        {
+          "img": "img1/con-1_04.gif",
+          "con": "古风|描述秀峰恋恋旧日好.."
+        },
+        {
+          "img": "img1/con-1_06.gif",
+          "con": "【德语】好听才是正经事.."
+        }
+      ]
+    },
+    {
+      "four": [
+        {
+          "img": "img1/con-1_10.gif",
+          "con": "地球日；你有什么话想对地球."
+        },
+        {
+          "img": "img1/con-1_11.gif",
+          "con": "古风|描述秀峰恋恋旧日好.."
+        },
+        {
+          "img": "img1/con-1_12.jpg",
+          "con": "【德语】好听才是正经事.."
+        }
+      ]
+    },
+    {
+      "five": [
+        {
+          "img": "img1/con-1_02.gif",
+          "con": "地球日；你有什么话想对地球."
+        },
+        {
+          "img": "img1/con-1_04.gif",
+          "con": "古风|描述秀峰恋恋旧日好.."
+        },
+        {
+          "img": "img1/img1/con-1_06.gif",
+          "con": "【德语】好听才是正经事.."
+        }
+      ]
+    },
+    {
+      "six": [
+        {
+          "img": "img1/dujia_02.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        },
+        {
+          "img": "img1/dujia_03.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        }
+      ]
+    },
+    {
+      "seven": [
+        {
+          "img": "img1/zuixin_02.gif",
+          "con1": "新歌推荐",
+          "con2": "推荐适合的口味.."
+        },
+        {
+          "img": "img1/zuixin_04.gif",
+          "con1": "palette",
+          "con2": "Ul.."
+        },
+        {
+          "img": "img1/zuixin_06.gif",
+          "con1": "新歌推荐",
+          "con2": "推荐适合的口味.."
+        }
+      ]
+    },
+    {
+      "enight": [
+        {
+          "img": "img1/zuixin_10.gif",
+          "con1": "新歌推荐",
+          "con2": "推荐适合的口味.."
+        },
+        {
+          "img": "img1/zuixin_11.gif",
+          "con1": "palette",
+          "con2": "Ul.."
+        },
+        {
+          "img": "img1/zuixin_12.jpg",
+          "con1": "新歌推荐",
+          "con2": "推荐适合的口味.."
+        }
+      ]
+    },
+    {
+      "nine": [
+        {
+          "img": "img1/tuijian_02.gif",
+          "con": "新歌推荐"
+        },
+        {
+          "img": "img1/tuijian_04.gif",
+          "con": "palette"
+        }
+      ]
+    },
+    {
+      "ten": [
+        {
+          "img": "img1/tuijian_07.gif",
+          "con": "新歌推荐"
+        },
+        {
+          "img": "img1/tuijian_08.jpg",
+          "con": "palette"
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "img": "img1/jingxuan_03.gif",
+          "con1": "专栏",
+          "con2": "《十念》：古风歌手小曲儿十年音乐之旅",
+          "con3": "阅读 33492"
+        },
+        {
+          "img": "img1/jingxuan_05.gif",
+          "con1": "专栏",
+          "con2": "《十念》：古风歌手小曲儿十年音乐之旅",
+          "con3": "阅读 33492"
+        },
+        {
+          "img": "img1/jingxuan_07.jpg",
+          "con1": "专栏",
+          "con2": "《十念》：古风歌手小曲儿十年音乐之旅",
+          "con3": "阅读 33492"
+        }
+      ]
+    }
+  ],
+  "dom1_b": [
+    {
+      "one": [
+        "img2/banner_02.jpg",
+        "img2/banner_02.jpg",
+        "img2/banner_02.jpg"
+      ]
+    },
+    {
+      "two": [
+        {
+          "img": "img2/con_1_02.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        },
+        {
+          "img": "img2/con_1_04.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        }
+      ]
+    },
+    {
+      "three": [
+        {
+          "img": "img2/con_1_07.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        },
+        {
+          "img": "img2/con_1_08.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        }
+      ]
+    },
+    {
+      "four": [
+        {
+          "img": "img2/con_1_11.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        },
+        {
+          "img": "img2/con_1_12.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        }
+      ]
+    },
+    {
+      "five": [
+        {
+          "img": "img2/con_1_15.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        },
+        {
+          "img": "img2/con_1_16.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        }
+      ]
+    },
+    {
+      "six": [
+        {
+          "img": "img2/con_1_19.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        },
+        {
+          "img": "img2/con_1_20.jpg",
+          "con": "kate UPton&Ricky Martin《对嘴假唱..》"
+        }
+      ]
+    }
+  ],
+  "dom1_c": [
+    {
+      "one": [
+        "img3/banner_02.jpg",
+        "img3/banner_02.jpg",
+        "img3/banner_02.jpg"
+      ]
+    },
+    {
+      "two": [
+        {
+          "img": "img3/tubiao_1_03.jpg",
+          "con": "电台分类"
+        },
+        {
+          "img": "img3/tubiao_2_03.jpg",
+          "con": "电台排行"
+        }
+      ]
+    },
+    {
+      "three": [
+        {
+          "img": "img3/meitian_02.jpg",
+          "con1": "王菲、窦靖童、窦唯：愿世...",
+          "con2": "淘世界"
+        },
+        {
+          "img": "img3/meitian_05.jpg",
+          "con1": "19年前的金城武——《不夜..",
+          "con2": "我爱电影"
+        },
+        {
+          "img": "img3/meitian_07.jpg",
+          "con1": "教你一首告白必听的歌曲",
+          "con2": "早安英文"
+        }
+      ]
+    },
+    {
+      "four": [
+        {
+          "img": "img3/diantai_02.jpg",
+          "con": "小北电台",
+          "img1": "img3/diantai_04.jpg",
+          "con2": "米莉.听见花开",
+          "img2": "img3/diantai_06.jpg",
+          "con3": "民谣在路上Folk"
+        },
+        {
+          "img": "img3/diantai_10.jpg",
+          "con": "早餐英语—最好听的英语课",
+          "img1": "img3/diantai_11.jpg",
+          "con2": "原谅我眼里满是人间烟火",
+          "img2": "img3/diantai_12.jpg",
+          "con3": "艳秋电台"
+        }
+      ]
+    },
+    {
+      "five": [
+        {
+          "con": "美文读物",
+          "img": "img3/meiwen_02.jpg",
+          "con1": "最牛英文书单",
+          "img1": "img3/meiwen_04.jpg",
+          "con2": "任志宏诵读经典",
+          "img3": "img3/meiwen_06.jpg",
+          "con3": "网瘾少女的深夜电台"
+        },
+        {
+          "con": "美文读物",
+          "img": "img3/meiwen_02.jpg",
+          "con1": "最牛英文书单",
+          "img1": "img3/meiwen_04.jpg",
+          "con2": "任志宏诵读经典",
+          "img3": "img3/meiwen_06.jpg",
+          "con3": "网瘾少女的深夜电台"
+        },
+        {
+          "con": "有声小说",
+          "img": "img3/yousheng_02.jpg",
+          "con1": "《棺材匠》",
+          "img1": "img3/yousheng_04.jpg",
+          "con2": "故事会提审",
+          "img3": "img3/yousheng_06.jpg",
+          "con3": "阿甘正传【原著】"
+        },
+        {
+          "con": "明星做主播",
+          "img": "img3/mingxing_02.jpg",
+          "con1": "野马电台",
+          "img1": "img3/mingxing_04.jpg",
+          "con2": "《二刘之辈》",
+          "img3": "img3/mingxing_06.jpg",
+          "con3": "黄渤的独家电台"
+        },
+        {
+          "con": "脱口秀",
+          "img": "img3/tuo_02.jpg",
+          "con1": "笑料百出",
+          "img1": "img3/tuo_04.jpg",
+          "con2": "飞碟说",
+          "img3": "img3/tuo_06.jpg",
+          "con3": "伦敦话语电台"
+        }
+      ]
+    },
+    {
+      "six": [
+        {
+          "img": "img3/remen_03.jpg",
+          "con": "创作|翻唱",
+          "img1": "img3/remen_05.jpg",
+          "con2": "情感调频"
+        },
+        {
+          "img": "img3/remen_09.jpg",
+          "con": "脱口秀",
+          "img1": "img3/remen_10.jpg",
+          "con2": "有声小说"
+        },
+        {
+          "img": "img3/remen_13.jpg",
+          "con": "音乐故事",
+          "img1": "img3/remen_14.jpg",
+          "con2": "人文历史"
+        }
+      ]
+    },
+    {
+      "seven": [
+        {
+          "img": "img3/more_03.jpg",
+          "con": "美文读物",
+          "img1": "img3/more_05.jpg",
+          "con1": "外语世界"
+        },
+        {
+          "img": "img3/more_10.jpg",
+          "con": "明星做主播",
+          "img1": "img3/more_12.jpg",
+          "con1": "3D|电子"
+        },
+        {
+          "img": "img3/more_15.jpg",
+          "con": "亲子宝贝",
+          "img1": "img3/more_16.jpg",
+          "con1": "校园|教育"
+        },
+        {
+          "img": "img3/more_19.jpg",
+          "con": "二次元",
+          "img1": "img3/more_20.jpg",
+          "con1": "旅游|城市"
+        },
+        {
+          "img": "img3/more_23.jpg",
+          "con": "音乐故事",
+          "img1": "img3/more_24.jpg",
+          "con1": "人文历史"
+        }
+      ]
+    }
+  ],
+  "dom1_d": [
+    {
+      "one": [
+        {
+          "img": "img4/yun_02.jpg",
+          "con": "1.王菲、窦靖童、窦唯：愿世...",
+          "con2": "2.微微一笑",
+          "con3": "3.爱情转移"
+        },
+        {
+          "img": "img4/yun_05.jpg",
+          "con": "1.王菲、窦靖童、窦唯：愿世...",
+          "con2": "2.微微一笑",
+          "con3": "3.爱情转移"
+        },
+        {
+          "img": "img4/yun_07.jpg",
+          "con": "1.王菲、窦靖童、窦唯：愿世...",
+          "con2": "微微一笑",
+          "con3": "爱情转移"
+        },
+        {
+          "img": "img4/yun_09.jpg",
+          "con": "1.王菲、窦靖童、窦唯：愿世...",
+          "con2": "2.微微一笑",
+          "con3": "3.爱情转移"
+        },
+        {
+          "img": "img4/yun_11.jpg",
+          "con": "1.王菲、窦靖童、窦唯：愿世...",
+          "con2": "2.微微一笑",
+          "con3": "3.爱情转移"
+        }
+      ]
+    },
+    {
+      "two": [
+        {
+          "img": "img4/quan_02.jpg",
+          "con": "云音乐电音榜",
+          "img1": "img3/quan_04.jpg",
+          "con1": "云音乐ACG音乐榜",
+          "img2": "img3/quan_06.jpg",
+          "con2": "Beatpor全球电子舞"
+        },
+        {
+          "img": "img4/quan_10.jpg",
+          "con": "云音乐电音榜",
+          "img1": "img3/quan_11.jpg",
+          "con1": "云音乐ACG音乐榜",
+          "img2": "img3/quan_12.jpg",
+          "con2": "Beatpor全球电子舞"
+        },
+        {
+          "img": "img4/quan_16.jpg",
+          "con": "云音乐电音榜",
+          "img1": "img3/quan_17.jpg",
+          "con1": "云音乐ACG音乐榜",
+          "img2": "img3/quan_18.jpg",
+          "con2": "Beatpor全球电子舞"
+        },
+        {
+          "img": "img4/quan_22.jpg",
+          "con": "云音乐电音榜",
+          "img1": "img3/quan_23.jpg",
+          "con1": "云音乐ACG音乐榜",
+          "img2": "img3/quan_24.jpg",
+          "con2": "Beatpor全球电子舞"
+        },
+        {
+          "img": "img4/quan_28.jpg",
+          "con": "云音乐电音榜",
+          "img1": "img3/quan_29.jpg",
+          "con1": "云音乐ACG音乐榜",
+          "img2": "img3/quan_30.jpg",
+          "con2": "Beatpor全球电子舞"
+        },
+        {
+          "img": "img4/quan_22.jpg",
+          "con": "云音乐电音榜",
+          "img1": "img3/quan_23.jpg",
+          "con1": "云音乐ACG音乐榜"
+        }
+      ]
+    },
+    {
+      "four": [
+        {
+          "img": "img4/yong_02.jpg",
+          "con":"音乐达人榜",
+          "img1":"img3/yong_04.jpg",
+          "con1":"音乐新人榜"
+        }
+      ]
+    }
+  ]
+}

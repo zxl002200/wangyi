@@ -1,0 +1,127 @@
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .banner {
+        width: 100%;
+        height: 10rem;
+        overflow: hidden;
+    }
+
+    .banner > ul {
+        width: 300%;
+        height: 10rem;
+        display: flex;
+        list-style: none;
+    }
+
+    .banner > ul > li > img {
+        width: 100%;
+        height: 100%;
+    }
+    .div1{
+        width:100%;
+        margin-top: 2rem;
+        display: flex;
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+    .div1>span:nth-child(1){
+        width: 25%;
+        margin-left: 4rem;
+        margin-right: 1rem;
+    }
+    .div1>p{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        display: block;
+        height: 3rem;
+        line-height: 3rem;
+    }
+    .div2 {
+        width: 100%;
+        height: 14rem;
+    }
+
+    .div2 > ul {
+        width: 100%;
+        height: 10rem;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .div2 > ul > li {
+        width: 49%;
+        height: 10rem;
+        margin: 0 auto;
+        font-size: 1.5rem;
+    }
+
+    .div2 > ul > li > img {
+        width: 100%;
+        height: 10rem;
+    }
+    .swiper-slide{
+        width: 100%;
+    }
+    .swiper-slide>img{
+        width:100%;
+    }
+
+</style>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" ng-repeat="item in obj2[0].one track by $index">
+                <img ng-src="{{item}}" />
+            </div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+<div class="div1">
+    <span style="display: block;border-radius: 10%;border: 1px solid black;text-align: center;line-height: 3rem">全部歌单 ></span>
+    <p>欧美</p>
+    <p>电子</p>
+    <p>影视原声</p>
+</div>
+<div class="div2">
+    <ul>
+        <li ng-repeat="item in obj2[1].two track by $index">
+            <img ng-src="{{item.img}}" alt="">
+            <p>{{item.con}}</p>
+        </li>
+    </ul>
+</div>
+<div class="div2">
+    <ul>
+        <li ng-repeat="item in obj2[2].three track by $index">
+            <img ng-src="{{item.img}}" alt="">
+            <p>{{item.con}}</p>
+        </li>
+    </ul>
+</div>
+<div class="div2">
+    <ul>
+        <li ng-repeat="item in obj2[3].four track by $index">
+            <img ng-src="{{item.img}}" alt="">
+            <p>{{item.con}}</p>
+        </li>
+    </ul>
+</div>
+<div class="div2">
+    <ul>
+        <li ng-repeat="item in obj2[4].five track by $index">
+            <img ng-src="{{item.img}}" alt="">
+            <p>{{item.con}}</p>
+        </li>
+    </ul>
+</div>
+<div class="div2">
+    <ul>
+        <li ng-repeat="item in obj2[5].six track by $index">
+            <img ng-src="{{item.img}}" alt="">
+            <p>{{item.con}}</p>
+        </li>
+    </ul>
+</div>
